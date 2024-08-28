@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**EthanWoe/EthanWoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Ethan Woessner
 IT/Cybersecurity
