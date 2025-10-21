@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hello 👋
 
 
 
 Ethan Woessner
-IT/Cybersecurity
+IT/Cybersecurity @ Wright State University
+Aspiring System Administrator
 
-CS 2400: learning about networking and how to network
-CEG 2350 Learning how to explore ubuntu and systems
+Passionate about learning about cloud systems, administration tools, and networking.
 
 https://github.com/EthanWoe/EthanWoe
